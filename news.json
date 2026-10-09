@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "date": "2026-10-07",
+      "title": {
+        "nl": "Nieuw album 'Not In My Name' op 19 maart 2027",
+        "en": "New album 'Not In My Name' on 19 March 2027"
+      },
+      "text": {
+        "nl": "Archive's veertiende studioalbum is aangekondigd voor 19 maart 2027. Volgens de aankondiging klinkt het onstuimig en politiek.",
+        "en": "Archive's fourteenth studio album is announced for 19 March 2027. According to the announcement it sounds turbulent and political."
+      },
+      "id": "curated-album",
+      "important": true
+    },
+    {
+      "date": "2026-10-07",
+      "title": {
+        "nl": "Europese tour in september 2027",
+        "en": "European tour in September 2027"
+      },
+      "text": {
+        "nl": "Naast Haarlem (8 september) staan onder meer Berlijn (11 september), Hamburg (13 september) en Düsseldorf (14 september) gepland.",
+        "en": "Besides Haarlem (8 September), Berlin (11 September), Hamburg (13 September) and Düsseldorf (14 September) are among the planned shows."
+      },
+      "id": "curated-tour",
+      "important": true
+    },
+    {
+      "id": "auto-9fcbb0be9581",
+      "date": "2026-09-29",
+      "title": {
+        "nl": "Archive Announce New Album ‘Not In My Name’ And Share Epic 18-Minute Title Track",
+        "en": "Archive Announce New Album ‘Not In My Name’ And Share Epic 18-Minute Title Track"
+      },
+      "text": {
+        "nl": "Bron: XS Noize",
+        "en": "Source: XS Noize"
+      },
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCeHJLWHVzcnpubEI4bFRhdlZnbHYydndqUmdlZ0plaTUycU1DMVo3SXdjOGNTalY4WF9kQVp3T0lGWXl2VmRyaXh6d01zcU90eU9QWTZWeXpReG1McjhFNmFaU0tsT3dF?oc=5",
+      "source": "XS Noize",
+      "important": true
+    }
+  ],
+  "updated": "2026-10-09T19:48:24Z"
+}
