@@ -40,7 +40,22 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCeHJLWHVzcnpubEI4bFRhdlZnbHYydndqUmdlZ0plaTUycU1DMVo3SXdjOGNTalY4WF9kQVp3T0lGWXl2VmRyaXh6d01zcU90eU9QWTZWeXpReG1McjhFNmFaU0tsT3dF?oc=5",
       "source": "XS Noize",
       "important": true
+    },
+    {
+      "id": "auto-3fcb7c9e52e0",
+      "date": "2026-09-29",
+      "title": {
+        "nl": "Archive - Not In My Name (Official Visualiser)",
+        "en": "Archive - Not In My Name (Official Visualiser)"
+      },
+      "text": {
+        "nl": "Bron: YouTube",
+        "en": "Source: YouTube"
+      },
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vc3ltSE5ja05KSTc4aTRIYTFxdHZpY2M1V3J0Y2t2dWFzbTRXTzRKaTlSTld5TUZ3by1lNnNjbVRPWHB2V2psVVQzSUd4eTEwbmpMc2UzZGoyYnNa?oc=5",
+      "source": "YouTube",
+      "important": false
     }
   ],
-  "updated": "2026-10-22T05:45:48Z"
+  "updated": "2026-10-22T17:44:20Z"
 }
