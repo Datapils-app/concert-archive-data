@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "auto-b28d33543c9e",
+      "date": "2026-11-17",
+      "title": {
+        "nl": "Archive Share New Single ‘Keep Your Eyes Down’ From ‘Not In My Name’",
+        "en": "Archive Share New Single ‘Keep Your Eyes Down’ From ‘Not In My Name’"
+      },
+      "text": {
+        "nl": "Bron: XS Noize",
+        "en": "Source: XS Noize"
+      },
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RZzBDcXFOZjFLdjQ0VnJ6LWNvM0F0UjVLSmMwOUd1MFBWbk1uYl8yY0JiNnc5YlF3Tm9zeGpWRjJwVDZWLW1tT1BkQl9MdkxmRjR4R1ktQUMzN2oySFFMRGRzeFRNaW5HSTdLTnpwZ2FmazdMX2c?oc=5",
+      "source": "XS Noize",
+      "important": true
+    },
+    {
       "date": "2026-10-07",
       "title": {
         "nl": "Nieuw album 'Not In My Name' op 19 maart 2027",
@@ -57,5 +72,5 @@
       "important": false
     }
   ],
-  "updated": "2026-11-17T14:29:09Z"
+  "updated": "2026-11-17T23:51:36Z"
 }
